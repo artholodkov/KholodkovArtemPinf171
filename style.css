@@ -13,9 +13,6 @@ h1 {
   line-height: normal;
 }
 
-.student {
-  font-size: 30px;
-  text-align: center;
 }
 h2 {
   font-size: 20px;
@@ -86,6 +83,10 @@ i {
 .avatar-container {
   text-align: center;
 }
+
+.student {
+  font-size: 30px;
+  text-align: center;
 
 .avatar {
   border-radius: 50%;
